@@ -1,119 +1,23 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0FF0FC,50:4169E1,100:1A1A1A&height=180&section=header&text=AstroMechVR's%20Cosmic%20Lab%20🤖&fontSize=48&fontAlignY=50&fontColor=FFFFFF" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=700&color=00FFFF&center=true&width=600&lines=Simulate.+Innovate.+Navigate." alt="Typing Animation" />
-</p>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,threejs,go,cpp,docker,linux" height="60"/>
-</div>
-
-<div align="center">
-  <b><i>“Between code and cosmos lies creation.”</i></b>
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,50:4169E1,100:00FFFF&height=100&section=header" width="100%" />
-</p>
-
----
-
-## 🌌 About Me
-
-<div align="center">
-  Hello! I'm <strong>AstroMechVR</strong>.<br/>
-  A developer who fuses virtual reality mechanics with cosmic-scale imagination.<br/>
-  My passion is in building immersive experiences where data, design, and dimension collide.<br/>
-  I code systems that think, react, and evolve — across the digital galaxy.<br/>
-  <br/>
-  🚀 XR Innovator | 🧠 Simulation Engineer | ⚙️ AI-Driven Reality Designer
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0FF0FC,50:4169E1,100:1A1A1A&height=100&section=footer" width="100%" />
-</p>
-
----
-
-## 🛰 Programmer Activity
-
-<p align="center">
-  <img src="https://img.shields.io/badge/VR%20Systems%20Engineer-00FFFF?style=for-the-badge&logo=oculus&logoColor=1A1A1A" />
-  <img src="https://img.shields.io/badge/Simulation%20Architect-4169E1?style=for-the-badge&logo=three.js&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/Cosmic%20Coder-1A1A1A?style=for-the-badge&logo=python&logoColor=00FFFF" />
-</p>
-
-<p align="center">
-  <i>“Reality is just another layer of the simulation.”</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,50:00FFFF,100:4169E1&height=100&section=footer" width="100%" />
-</p>
-
----
-
-## ⚙️ Tech Arsenal
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-00FFFF?style=for-the-badge&logo=python&logoColor=1A1A1A"/>
-  <img src="https://img.shields.io/badge/-JavaScript-4169E1?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/-TypeScript-1A1A1A?style=for-the-badge&logo=typescript&logoColor=00FFFF"/>
-  <img src="https://img.shields.io/badge/-React-00FFFF?style=for-the-badge&logo=react&logoColor=1A1A1A"/>
-  <img src="https://img.shields.io/badge/-Three.js-4169E1?style=for-the-badge&logo=three.js&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/-Go-1A1A1A?style=for-the-badge&logo=go&logoColor=00FFFF"/>
-  <img src="https://img.shields.io/badge/-C++-4169E1?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/-Docker-00FFFF?style=for-the-badge&logo=docker&logoColor=1A1A1A"/>
-  <img src="https://img.shields.io/badge/-Linux-1A1A1A?style=for-the-badge&logo=linux&logoColor=FFFFFF"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0FF0FC,50:4169E1,100:1A1A1A&height=100&section=footer" width="100%" />
-</p>
-
----
-
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:88FF00,33:FF0088,66:00FFFF,100:FF8800&height=180&section=header&text=AstroMechVR%27s%20Creative%20Space%20%F0%9F%8E%A8&fontSize=48&fontAlignY=50&fontColor=ffffff" width="100%" /></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=700&color=88FF00&center=true&width=600&lines=Research.+Resolve.+Release." alt="Typing Animation" /></p>
+<div align="center"><img src="https://skillicons.dev/icons?i=js,ts,py,go,react,nextjs,nodejs,docker,githubactions,linux" height="60"/></div>
+<div align="center"><b><i>“The best way to predict the future is to create it.”</i></b></div>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:88FF00,33:FF0088,66:00FFFF,100:FF8800&height=100&section=header" width="100%" /></p>
+## 💡 About Me
+<div align="center">Welcome! I am a cloud-native developer who loves building scalable solutions on modern infrastructure.<br/>I am passionate about DevOps, containerization, and continuous integration.<br/>Let's deploy seamlessly.</div>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:88FF00,33:FF0088,66:00FFFF,100:FF8800&height=100&section=footer" width="100%" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:88FF00,33:FF0088,66:00FFFF,100:FF8800&height=100&section=header" width="100%" /></p>
+## 🔥 Programmer Activity
+<p align="center"><img src="https://img.shields.io/badge/Always%20Coding-88FF00?style=for-the-badge&logo=visualstudiocode&logoColor=000" /> <img src="https://img.shields.io/badge/Weekly%20Commits-FF0088?style=for-the-badge&logo=git&logoColor=000" /> <img src="https://img.shields.io/badge/Open%20Source%20Active-00FFFF?style=for-the-badge&logo=github&logoColor=000" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:88FF00,33:FF0088,66:00FFFF,100:FF8800&height=100&section=footer" width="100%" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:88FF00,33:FF0088,66:00FFFF,100:FF8800&height=100&section=header" width="100%" /></p>
 ## 📊 My GitHub in Numbers
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AstroMechVR&show_icons=true&theme=dracula&hide_border=true&title_color=00FFFF&icon_color=4169E1&text_color=DDDDDD&border_color=1A1A1A&cache_seconds=3600" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AstroMechVR&theme=dracula&hide_border=true&border_color=4169E1&background=000000&ring=00FFFF&fire=4169E1&currStreakLabel=DDDDDD&cache_buster=20251029_1" height="165"/>
-</div>
-
----
-
-## 🧠 Most Used Languages 
-
-| Language | Usage | Visual |
-|:----------|:-------|:--------|
-| 🐍 **Python** | 30% | ███████████████████░░░░░░░░░░ |
-| ⚛️ **JavaScript** | 25% | ████████████████░░░░░░░░░░░░ |
-| 🌌 **TypeScript** | 15% | ████████░░░░░░░░░░░░░░░░░░ |
-| 🌀 **Three.js** | 20% | ███████████░░░░░░░░░░░░░░░░ |
-| 🧩 **Others** | 10% | █████░░░░░░░░░░░░░░░░░░░░░ |
-
-<p align="center"><i>Reality engineered through code, projected across galaxies.</i></p>
-
----
-
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AstroMechVR&show_icons=true&theme=dracula&hide_border=true&title_color=88FF00&icon_color=00FFFF&text_color=FF0088&border_color=88FF00" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstroMechVR&langs_count=8&layout=compact&theme=dracula&hide_border=true&title_color=FF0088&icon_color=88FF00&text_color=00FFFF&border_color=FF0088" height="165"/></div>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AstroMechVR&theme=dracula&hide_border=true&border_color=88FF00" height="165"/></div>
+<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AstroMechVR&theme=dracula" height="165"/></div>
+<p align="center"><img src="https://img.shields.io/github/stars/AstroMechVR?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&logo=github&color=88FF00&style=for-the-badge"/></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:88FF00,33:FF0088,66:00FFFF,100:FF8800&height=100&section=footer" width="100%" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:88FF00,33:FF0088,66:00FFFF,100:FF8800&height=80&section=header" width="100%" /></p>
 ## 🏆 My GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app?username=AstroMechVR&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&cache_buster=20251029_1"/>
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0FF0FC,50:4169E1,100:1A1A1A&height=80&section=footer" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,50:4169E1,100:1A1A1A&height=150&section=footer&fontColor=fff&text=Calibrate%20Reality.%20Expand%20the%20Simulation.%20🚀&fontSize=30" width="100%" alt="footer"/>
-  <br/>
-  <blockquote>
-    <p><strong>“The universe is the ultimate simulator — I just debug it.”</strong></p>
-  </blockquote>
-</p>
+<div align="center"><img src="https://github-profile-trophy.vercel.app?username=AstroMechVR&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false"/></div>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:88FF00,33:FF0088,66:00FFFF,100:FF8800&height=80&section=footer" width="100%" /></p>
